@@ -1,0 +1,1 @@
+"This is my first attempt at flying solo and creating a repository on github, cloning it, creating a file on git, committing it, and pushing it up to the remote repository on github. Wish me luck!" 
