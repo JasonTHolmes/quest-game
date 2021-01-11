@@ -1,4 +1,18 @@
 body{
     background-color: rgb(205, 205, 255);
-    width: 80%;
+    width: 90%;
+    margin: auto;
+}
+
+#email, #password, #button {
+    padding: 5px;
+}
+
+input, button {
+    border: 6px solid transparent;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
 }
