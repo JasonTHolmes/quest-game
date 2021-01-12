@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(205, 205, 255);
+    background-color: rgb(138, 138, 188);
     width: 90%;
     margin: auto;
 }
@@ -15,4 +15,9 @@ input, button {
     -moz-border-radius: 5px;
     -ms-border-radius: 5px;
     -o-border-radius: 5px;
+}
+
+header div {
+    float: left;
+    margin: auto;
 }
